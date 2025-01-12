@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<h1 align="center">Hi 👋, I'm KuldipAmreliya(Kuldipamreliya)</h1>
+<h1 align="center">Hi 👋, I'm Kuldip Amreliya(Kuldipamreliya)</h1>
 
 🎓 Final-year student at Pacific School of Engineering , specializing in Java & Spring Boot.  
 💻 Passionate about backend development, microservices, and scalable apps.  
