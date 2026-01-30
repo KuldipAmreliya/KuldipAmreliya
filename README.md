@@ -17,7 +17,7 @@ You can drop me a mail at <a href="mailto:kuldipamreliya001@gmail.com">kuldipamr
 
 ### About Me
 - Application Developer at **IBM**, working with **Java and Web Technologies**
-- Graduated in **2025** from **Pacific School of Engineering**
+- Graduated in **2025** from **Gujarat Technological University**
 - Strong foundation in **Data Structures and Algorithms (Java)**
 - Solved **400+ problems on LeetCode**
 - **5★ Java** rated on **HackerRank**
