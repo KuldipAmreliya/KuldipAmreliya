@@ -10,7 +10,7 @@ Backend-focused application developer with strong problem-solving skills and ind
 </p>
 
 <p align="center">
-📧 <a href="mailto:yourname@email.com">yourname@email.com</a>
+You can drop me a mail at <a href="mailto:yourname@email.com">yourname@email.com</a>
 </p>
 
 ---
