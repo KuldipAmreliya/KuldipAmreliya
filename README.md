@@ -9,6 +9,10 @@
 Backend-focused application developer with strong problem-solving skills and industry experience in Java-based systems.
 </p>
 
+<p align="center">
+📧 <a href="mailto:yourname@email.com">yourname@email.com</a>
+</p>
+
 ---
 
 ### About Me
@@ -27,14 +31,8 @@ Backend-focused application developer with strong problem-solving skills and ind
 <a href="https://linkedin.com/in/amreliyakuldip" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
-<a href="https://www.codechef.com/users/aloft_fair_02" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/>
-</a>
 <a href="https://www.hackerrank.com/amreliya_kuldip" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
-</a>
-<a href="https://codeforces.com/profile/aloft_fair_02" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"/>
 </a>
 <a href="https://www.leetcode.com/kuldipamreliya001" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
@@ -69,4 +67,3 @@ Backend-focused application developer with strong problem-solving skills and ind
 ---
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
